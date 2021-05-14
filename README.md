@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-### I'm a <img alt="Android"  width="26px" src="https://img-premium.flaticon.com/png/512/270/270780.png?token=exp=1621029551~hmac=f429671f8d9c923610b91724d94706ad" />  guy :iphone:
+### I'm a <img alt="Android"  width="26px" src="https://media.tenor.com/images/6a07d90fb23a9fadf2e3fec429150697/tenor.gif" />  guy.
 
 <br/>
 <br/>
