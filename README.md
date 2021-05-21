@@ -1,6 +1,6 @@
 # Hey, I'm Abhishek Dhiman <img  alt="cplusplus" width="40px" src="https://media.tenor.com/images/02427a361839c4b3c41dab89c2bf12a6/tenor.gif" />
 
-### Programming Language :
+### :computer: Programming Language :
 
 [<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/python.svg" />][notepad-clone]
 [<img align="left" alt="css3" width="26px" src="https://simpleicons.org/icons/css3.svg" />][css-static]
@@ -14,7 +14,7 @@
 <br/>
 
 
-### Tools :
+### :hammer_and_wrench: Tools :
 [<img align="left" width="32" alt="unity" src="https://simpleicons.org/icons/unity.svg" />][unity2d-game]
 <img  align="left" width="32"  alt="blender" src="https://simpleicons.org/icons/blender.svg" />
 <img  align="left" width="32" alt="vscode" src="https://simpleicons.org/icons/visualstudiocode.svg" />
@@ -29,7 +29,7 @@
 
 ----
 
-### Latest Youtube Videos
+### :tv: Latest Youtube Videos
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
 
@@ -40,10 +40,11 @@
 - [Tokyo Ghoul ~ Hip Hop Instrumental Beat | Chills Mix | Anime | Japan](https://www.youtube.com/watch?v=RyzYWuyioUM)
 - [Space Lofi ~ Take You Into Space  [lofi / calm / chilled beats]](https://www.youtube.com/watch?v=jPg0_iCR8Xg)
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/channel/UCN3VRbRUrFDqvFC-IHppScA)
+
+
 -----
 
-### Where to find me : 
+### :round_pushpin: Where to find me : 
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
