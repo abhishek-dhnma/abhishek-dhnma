@@ -31,6 +31,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Sunday Morning ~ Sleepy Mood Lofi Vibes X Relax ✨](https://www.youtube.com/watch?v=8ZbGzcf2ryg)
+- [Space Chills ~ Takes You Into Space 🌌  | Study X Relax X Code | Lofi Vide](https://www.youtube.com/watch?v=YOOrt6cMpHs)
+- [Smooth Piano Chill Beats ~ Stress Relief | Meditation | Study | Coding](https://www.youtube.com/watch?v=mMydnfR1Fh8)
+- [Tokyo Ghoul ~ Hip Hop Instrumental Beat | Chills Mix | Anime | Japan](https://www.youtube.com/watch?v=RyzYWuyioUM)
+- [Space Lofi ~ Take You Into Space  [lofi / calm / chilled beats]](https://www.youtube.com/watch?v=jPg0_iCR8Xg)
 <!-- YOUTUBE:END -->
 
 -----
