@@ -31,7 +31,8 @@
 
 ### Latest Youtube Videos
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA?label=YouTube%20Subscribers&style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
+
 <!-- YOUTUBE:START -->
 - [Sunday Morning ~ Sleepy Mood Lofi Vibes X Relax ✨](https://www.youtube.com/watch?v=8ZbGzcf2ryg)
 - [Space Chills ~ Takes You Into Space 🌌  | Study X Relax X Code | Lofi Vide](https://www.youtube.com/watch?v=YOOrt6cMpHs)
