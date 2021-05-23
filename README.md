@@ -1,6 +1,6 @@
 # Hey, I'm Abhishek Dhiman <img  alt="cplusplus" width="40px" src="https://media.tenor.com/images/02427a361839c4b3c41dab89c2bf12a6/tenor.gif" />
 
-<img hight="250" width="550" alt="GIF" align="right" src="https://github.com/abhishek-dhnma/abhishek-dhnma/blob/main/Photos.png">
+<img hight="250" width="500" alt="GIF" align="right" src="https://github.com/abhishek-dhnma/abhishek-dhnma/blob/main/Photos.png">
 
 ### :computer: Programming Language :
 
