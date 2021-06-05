@@ -4,11 +4,15 @@
 
 ### :computer: Programming Language :
 
-[<img align="left" alt="python" width="26px" src="https://simpleicons.org/icons/python.svg" />][notepad-clone]
-[<img align="left" alt="css3" width="26px" src="https://simpleicons.org/icons/css3.svg" />][css-static]
-[<img align="left" alt="html5" width="26px" src="https://simpleicons.org/icons/html5.svg" />][html-selectors]
-[<img align="left" alt="bootstrap" width="26px" src="https://simpleicons.org/icons/bootstrap.svg" />][tindog]
-<img align="left" alt="cplusplus" width="26px" src="https://simpleicons.org/icons/cplusplus.svg" />
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)][css-static]
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)][html-selectors]
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)][tindog]
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)][notepad-clone]
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-ffcc29?style=for-the-badge&logo=three-dot-js&logoColor=black)
+
 
 
 
@@ -17,15 +21,18 @@
 
 
 ### :hammer_and_wrench: Tools :
-[<img align="left" width="32" alt="unity" src="https://simpleicons.org/icons/unity.svg" />][unity2d-game]
-<img  align="left" width="32"  alt="blender" src="https://simpleicons.org/icons/blender.svg" />
-<img  align="left" width="32" alt="vscode" src="https://simpleicons.org/icons/visualstudiocode.svg" />
-<img  align="left" width="32" alt="sparkar" src="https://simpleicons.org/icons/sparkar.svg" />
+[![Unity](https://img.shields.io/badge/Unity-FF2D20?style=for-the-badge&logo=unity&logoColor=white)][unity2d-game]
+![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=black)
+![vScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Spark](https://img.shields.io/badge/spark_ar-FF5C83?style=for-the-badge&logo=spark-ar&logoColor=black)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 <br/>
 <br/>
 
-### I'm a <img alt="Android"  width="26px" src="https://media.tenor.com/images/6a07d90fb23a9fadf2e3fec429150697/tenor.gif" />  guy.
+### I'm a ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  guy.
 
 <br/>
 
