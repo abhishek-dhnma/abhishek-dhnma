@@ -45,11 +45,11 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
 
 <!-- YOUTUBE:START -->
+- [Raining sound for sleeping and study | refreshing | paradise | 10 mins | focus](https://www.youtube.com/watch?v=FKNMd3mDBH0)
 - [Sunday Morning ~ Sleep Lo-fi Beats ✨](https://www.youtube.com/watch?v=kA98q8okHKY)
 - [Coding On Loop Lo-fi Guitar Chills ~ Study | Mind Relaxed Beats](https://www.youtube.com/watch?v=yw3m5oIbHmM)
 - [Smooth Refreshing Vides Lofi Chills ~ Code | Study | Read | Stress Relief](https://www.youtube.com/watch?v=uG_NvsJVjkU)
 - [Sunday Morning ~ Sleepy Mood Lofi Vibes X Relax ✨](https://www.youtube.com/watch?v=8ZbGzcf2ryg)
-- [Space Chills ~ Takes You Into Space 🌌  | Study X Relax X Code | Lofi Vide](https://www.youtube.com/watch?v=YOOrt6cMpHs)
 <!-- YOUTUBE:END -->
 
 
