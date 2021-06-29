@@ -45,11 +45,11 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
 
 <!-- YOUTUBE:START -->
+- [View from airplane window😍 #shorts #youtubeshorts](https://www.youtube.com/watch?v=ahRZM8cA7is)
 - [Cloud Surfing ~  Lofi Chill Pop | Relax | Study| Love | Travel | Coding | Visuals](https://www.youtube.com/watch?v=CpzTG9xg0_c)
 - [Sunflower ~ Lofi Mix For Study | Relax | Background | Coding | Bollywood](https://www.youtube.com/watch?v=SQKjfRKhn-g)
 - [Raining sound for sleeping and study | refreshing | paradise | 10 mins | focus](https://www.youtube.com/watch?v=FKNMd3mDBH0)
 - [Sunday Morning ~ Sleep Lo-fi Beats ✨](https://www.youtube.com/watch?v=kA98q8okHKY)
-- [Coding On Loop Lo-fi Guitar Chills ~ Study | Mind Relaxed Beats](https://www.youtube.com/watch?v=yw3m5oIbHmM)
 <!-- YOUTUBE:END -->
 
 
