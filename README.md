@@ -45,11 +45,11 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
 
 <!-- YOUTUBE:START -->
+- [Lofi Mix ~ Airplane | Travel | Relax | Calm | #youtubeshorts #shorts](https://www.youtube.com/watch?v=nRdaplY4Fdk)
 - [Lofi Mix Chill ~ Relax | Calm | Travel | Study 💛💚💙❤️ #shorts](https://www.youtube.com/watch?v=EwSDV1O_Gp8)
 - [Beach Sounds ~ Relaxing | +Ve Energy | Calm | Meditate | #shorts](https://www.youtube.com/watch?v=eDkpTPdUzjM)
 - [Magnificent Forest Sound ~ Lofi | Relax | Calm | Study | +Ve Energy | #shorts](https://www.youtube.com/watch?v=Rn6UnDwyNok)
 - [Lofi Mix ~  Shorts | Relax | Study | Sleep 4K #shorts](https://www.youtube.com/watch?v=8EOnr3gyKZ4)
-- [View from airplane window😍 #shorts #youtubeshorts](https://www.youtube.com/watch?v=ahRZM8cA7is)
 <!-- YOUTUBE:END -->
 
 
