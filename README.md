@@ -45,11 +45,11 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
 
 <!-- YOUTUBE:START -->
+- [Chill Life With good Vibes | #shorts #youtubeshorts](https://www.youtube.com/watch?v=8MtG3UMoBSI)
 - [CHILL VIBE ~  Good Songs | Refreshing ✨](https://www.youtube.com/watch?v=klujI3G-VB8)
 - [Ghibli Chill Music 🎶 ~ #youtubeshorts #shorts](https://www.youtube.com/watch?v=OC49zMuJFoo)
 - [Ghibli Lofi ~ Enjoy & Happy Mood | Relax | Study | #shorts #youtubeshorts](https://www.youtube.com/watch?v=k5N9PlmzFX8)
 - [Lofi Bass Mix ~ Japanese sound | Relax | Study | Refresh | Calm | #youtubeshorts #shorts](https://www.youtube.com/watch?v=xgnAhl-1G_8)
-- [Lofi Mix ~ Driving into Heaven | Travel | Relax | Calm | #shorts #youtubeshorts](https://www.youtube.com/watch?v=1BNE5-I0hxQ)
 <!-- YOUTUBE:END -->
 
 
