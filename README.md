@@ -45,11 +45,11 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
 
 <!-- YOUTUBE:START -->
+- [Flute lofi mix #shorts](https://www.youtube.com/watch?v=eBYtmK3nX4s)
+- [Polaroid Memories | Lofi / Chill Mix](https://www.youtube.com/watch?v=cJmFSkKIqyw)
 - [Lofi mix vibes ~ Sunset | #shorts #youtubeshorts](https://www.youtube.com/watch?v=8MtG3UMoBSI)
 - [CHILL VIBE ~  Good Songs | Refreshing ✨](https://www.youtube.com/watch?v=klujI3G-VB8)
 - [Ghibli Chill Music 🎶 ~ #youtubeshorts #shorts](https://www.youtube.com/watch?v=OC49zMuJFoo)
-- [Ghibli Lofi ~ Enjoy & Happy Mood | Relax | Study | #shorts #youtubeshorts](https://www.youtube.com/watch?v=k5N9PlmzFX8)
-- [Lofi Bass Mix ~ Japanese sound | Relax | Study | Refresh | Calm | #youtubeshorts #shorts](https://www.youtube.com/watch?v=xgnAhl-1G_8)
 <!-- YOUTUBE:END -->
 
 
