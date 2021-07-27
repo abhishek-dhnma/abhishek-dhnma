@@ -45,11 +45,11 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
 
 <!-- YOUTUBE:START -->
-- [Lofi Glass Animals ~ #Shorts #neverhaveiever](https://www.youtube.com/watch?v=oLf2tw1Rl9g)
+- [Lofi + Slowed + Reverb #shorts #lofi #slowedReverb](https://www.youtube.com/watch?v=wFeeJTrXhrQ)
+- [Glass Animals Heat Wave | Never have i ever #Shorts #neverhaveiever](https://www.youtube.com/watch?v=oLf2tw1Rl9g)
 - [Flute lofi mix  #shorts Mind Refresher](https://www.youtube.com/watch?v=eBYtmK3nX4s)
 - [Polaroid Memories | Lofi / Chill Mix](https://www.youtube.com/watch?v=cJmFSkKIqyw)
 - [Lofi mix vibes ~ Sunset | #shorts #youtubeshorts](https://www.youtube.com/watch?v=8MtG3UMoBSI)
-- [CHILL VIBE ~  Good Songs | Refreshing ✨](https://www.youtube.com/watch?v=klujI3G-VB8)
 <!-- YOUTUBE:END -->
 
 
