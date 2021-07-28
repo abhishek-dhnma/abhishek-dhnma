@@ -45,11 +45,11 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
 
 <!-- YOUTUBE:START -->
+- [Dream - Lofi hip hop mix ~ Stress Relief, Relaxing Music, Study Music](https://www.youtube.com/watch?v=EKtG3XLDD-w)
 - [listen This While Driving ✨ #shorts #youtubeshorts](https://www.youtube.com/watch?v=PDZ6V41yFMQ)
 - [Lofi + Slowed + Reverb #shorts #lofi #slowedReverb](https://www.youtube.com/watch?v=wFeeJTrXhrQ)
 - [Glass Animals Heat Wave | Never have i ever #Shorts #neverhaveiever](https://www.youtube.com/watch?v=oLf2tw1Rl9g)
 - [Flute lofi mix  #shorts Mind Refresher](https://www.youtube.com/watch?v=eBYtmK3nX4s)
-- [Polaroid Memories | Lofi / Chill Mix](https://www.youtube.com/watch?v=cJmFSkKIqyw)
 <!-- YOUTUBE:END -->
 
 
