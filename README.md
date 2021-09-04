@@ -55,6 +55,10 @@
 
 -----
 
+
+[![Spotify](https://https://novatorem-seven-sage.vercel.app/api/spotify)](https://open.spotify.com/user/31n6b3emba67uumvq76fwh7kllfq)
+
+
 ### :round_pushpin: Where to find me : 
 
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
