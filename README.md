@@ -42,7 +42,7 @@
 
 ### :tv: Latest Youtube Videos
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCN3VRbRUrFDqvFC-IHppScA)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8Vq9K1DAR5k5PV8wZxKFOw)
 
 <!-- YOUTUBE:START -->
 - [Jaipur #shorts ✨ | City Palace | Nahargarh fort | Amer Fort | Hawa Mahal | Jaigarh Fort | Jal Mahal](https://www.youtube.com/watch?v=EshG-nL-SX4)
