@@ -45,11 +45,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8Vq9K1DAR5k5PV8wZxKFOw)
 
 <!-- YOUTUBE:START -->
-- [Jaipur #shorts ✨ | City Palace | Nahargarh fort | Amer Fort | Hawa Mahal | Jaigarh Fort | Jal Mahal](https://www.youtube.com/watch?v=EshG-nL-SX4)
-- [Dream - Lofi hip hop mix ~ Stress Relief, Relaxing Music, Study Music](https://www.youtube.com/watch?v=EKtG3XLDD-w)
-- [listen This While Driving ✨ #shorts #youtubeshorts](https://www.youtube.com/watch?v=PDZ6V41yFMQ)
-- [Lofi + Slowed + Reverb #shorts #lofi #slowedReverb](https://www.youtube.com/watch?v=wFeeJTrXhrQ)
-- [Glass Animals Heat Wave | Never have i ever #Shorts #neverhaveiever](https://www.youtube.com/watch?v=oLf2tw1Rl9g)
+- [Google local guide||Contibution on maps ||india||](https://www.youtube.com/watch?v=NfTohOGNqks)
 <!-- YOUTUBE:END -->
 
 
