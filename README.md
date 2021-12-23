@@ -54,7 +54,7 @@
 - [Cloud Natural Language API: Qwik Start | GSP097 | Qwiklab | Google Cloud | CodeManiac](https://www.youtube.com/watch?v=O0VxwBHagpo)
 - [Dataproc: Qwik Start - Console | GSP103 | Qwiklab | Google Cloud | CodeManiac](https://www.youtube.com/watch?v=vFxOT2xJAxU)
 <!-- YOUTUBE:END -->
-➡️ [more videos...](https://www.youtube.com/channel/UC8Vq9K1DAR5k5PV8wZxKFOw)
+
 -----
 
 [![Spotify](https://https://novatorem-seven-sage.vercel.app/api/spotify)](https://open.spotify.com/user/31n6b3emba67uumvq76fwh7kllfq)
