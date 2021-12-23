@@ -1,11 +1,8 @@
-# Hey, I'm Abhishek Dhiman <<img  alt="cplusplus" width="40px" src="https://media.tenor.com/images/6ebf7e46649d80bad20239b103677fe8/tenor.gif" />/>
-
-
+# Hey, I'm Abhishek Dhiman <img  alt="cplusplus" width="40px" src="https://media.tenor.com/images/6ebf7e46649d80bad20239b103677fe8/tenor.gif" />
 
 <img hight="250" width="500" alt="GIF" align="right" src="https://github.com/abhishek-dhnma/abhishek-dhnma/blob/main/Photos.png">
 
 ### :computer: Programming Language :
-
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 [![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)][css-static]
@@ -15,12 +12,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Three.js](https://img.shields.io/badge/three.js-ffcc29?style=for-the-badge&logo=three-dot-js&logoColor=black)
 
-
-
-
 <br/>
 <br/>
-
 
 ### :hammer_and_wrench: Tools :
 [![Unity](https://img.shields.io/badge/Unity-FF2D20?style=for-the-badge&logo=unity&logoColor=white)][unity2d-game]
@@ -29,12 +22,6 @@
 ![Spark](https://img.shields.io/badge/spark_ar-FF5C83?style=for-the-badge&logo=spark-ar&logoColor=black)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-<br/>
-<br/>
-
-### I'm a ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  guy.
 
 <br/>
 
@@ -64,12 +51,9 @@
 - [Google local guide||Contibution on maps ||india||](https://www.youtube.com/watch?v=NfTohOGNqks)
 <!-- YOUTUBE:END -->
 
-
 -----
 
-
 [![Spotify](https://https://novatorem-seven-sage.vercel.app/api/spotify)](https://open.spotify.com/user/31n6b3emba67uumvq76fwh7kllfq)
-
 
 ### :round_pushpin: Where to find me : 
 
@@ -79,8 +63,6 @@
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
 [<img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][yt]
 [<img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>][hackerrank]
-
-
 
 
 <!-- Keys & Values  -->
