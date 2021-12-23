@@ -45,7 +45,7 @@
 
 ### :tv: Latest Youtube Videos
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8Vq9K1DAR5k5PV8wZxKFOw)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8Vq9K1DAR5k5PV8wZxKFOw)](https://www.youtube.com/channel/UC8Vq9K1DAR5k5PV8wZxKFOw/about)
 
 <!-- YOUTUBE:START -->
 - [Video Intelligence: Qwik Start | GSP154 | Tutorial | Qwiklabs | CodeManiac](https://www.youtube.com/watch?v=Rz8YmhqBo3Y)
