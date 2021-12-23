@@ -29,19 +29,33 @@
 <p align="center">
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek-dhnma&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek-dhnma&show_icons=true&theme=radical" />
    
 </p>
 
 ----
+
+### :round_pushpin: Where to find me : 
+
+[<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][ig]
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
+[<img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][yt]
+[<img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>][hackerrank]
+
+----
+
 ### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
----
+
+----
+
 [![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-dhnma&theme=react-dark)](https://github.com/abhishek-dhnma)
 
----
+-----
 
 ### :tv: Latest Youtube Videos
 
@@ -55,18 +69,6 @@
 - [Dataproc: Qwik Start - Console | GSP103 | Qwiklab | Google Cloud | CodeManiac](https://www.youtube.com/watch?v=vFxOT2xJAxU)
 <!-- YOUTUBE:END -->
 
------
-
-[![Spotify](https://https://novatorem-seven-sage.vercel.app/api/spotify)](https://open.spotify.com/user/31n6b3emba67uumvq76fwh7kllfq)
-
-### :round_pushpin: Where to find me : 
-
-[<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
-[<img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][ig]
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
-[<img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][yt]
-[<img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>][hackerrank]
 
 
 <!-- Keys & Values  -->
