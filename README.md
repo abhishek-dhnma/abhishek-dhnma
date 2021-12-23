@@ -48,7 +48,11 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8Vq9K1DAR5k5PV8wZxKFOw)
 
 <!-- YOUTUBE:START -->
-
+- [Video Intelligence: Qwik Start | GSP154 | Tutorial | Qwiklabs | CodeManiac](https://www.youtube.com/watch?v=Rz8YmhqBo3Y)
+- [Detect Labels, Faces, and Landmarks in Images with Cloud Vision API | Qwiklabs GSP037 | CodeManiac](https://www.youtube.com/watch?v=lHIiEsqWLfs)
+- [Google Cloud Speech API: Qwik Start | GSP119 | Qwiklab | Google Cloud | CodeManiac](https://www.youtube.com/watch?v=2--4qvuA5aM)
+- [Cloud Natural Language API: Qwik Start | GSP097 | Qwiklab | Google Cloud | CodeManiac](https://www.youtube.com/watch?v=O0VxwBHagpo)
+- [Dataproc: Qwik Start - Console | GSP103 | Qwiklab | Google Cloud | CodeManiac](https://www.youtube.com/watch?v=vFxOT2xJAxU)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UC8Vq9K1DAR5k5PV8wZxKFOw)
 -----
