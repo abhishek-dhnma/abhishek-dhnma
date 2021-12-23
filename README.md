@@ -52,7 +52,7 @@
 
 <!--END_SECTION:activity-->
 ---
-[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-dhnma)](https://github.com/abhishek-dhnma)
+[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishek-dhnma&theme=react-dark)](https://github.com/abhishek-dhnma)
 
 ---
 
