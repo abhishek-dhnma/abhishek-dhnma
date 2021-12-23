@@ -40,6 +40,12 @@
 
 ----
 
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-dhnma&show_icons=true&theme=radical)](https://github.com/abhishek-dhnma)
+
+
+
+----
+
 ### :tv: Latest Youtube Videos
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8Vq9K1DAR5k5PV8wZxKFOw)
