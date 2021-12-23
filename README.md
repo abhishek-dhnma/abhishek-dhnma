@@ -26,13 +26,6 @@
 <br/>
 
 ----
-<p align="center">
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek-dhnma&show_icons=true&theme=tokyonight" />
-   
-</p>
-
-----
 
 ### :round_pushpin: Where to find me : 
 
@@ -42,6 +35,14 @@
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
 [<img alt="Youtube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][yt]
 [<img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>][hackerrank]
+
+----
+
+<p align="center">
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek-dhnma&show_icons=true&theme=blue-green" />
+   
+</p>
 
 ----
 
