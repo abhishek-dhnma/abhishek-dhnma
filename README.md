@@ -41,7 +41,6 @@
 <p align="center">
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhishek-dhnma&show_icons=true&theme=blue-green" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-dhnma&repo=github-readme-stats" />
    
 </p>
 
