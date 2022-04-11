@@ -42,7 +42,7 @@
  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=abhishek-dhnma&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-dhnma&theme=tokyonight">
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekbyte">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=abhishekbyte&layout=compact">
   
 </p>
 
