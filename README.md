@@ -1,7 +1,7 @@
 [![@codedhiman's Holopin board](https://holopin.io/api/user/board?user=codedhiman)](https://holopin.io/@codedhiman)
 
 <h1 align="center">Hi 👋, I'm Abhishek Dhiman</h1>
-<h3 align="center">Java Backend Engineer | Microservices | Distributed Systems</h3>
+<h3 align="center"> Full Stack Engineer | Microservices | Distributed Systems</h3>
 
 <p align="center">
 🚀 3.5+ Years Experience • ⚡ Production Incident Slayer • 🧠 System Design Learner • 🇮🇳 India
